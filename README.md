@@ -1,43 +1,62 @@
 # My Boys Are Dying
 
-A clean, beginner-friendly HTML and CSS project that showcases a spoken word poem with an embedded audio player. This project focuses on practicing semantic HTML, typography, page structure, and basic styling while creating a simple and immersive reading experience.
+![Project Screenshot](screenshot.png)
 
-## Features Covered
+## Overview
 
-- **Semantic HTML:** Proper use of `<header>`, `<main>`, `<section>`, and `<footer>`.
-- **Typography:** Headings, paragraphs, line breaks, and readable text layouts.
-- **Images:** Displaying an external profile image with basic styling.
-- **Audio:** Native HTML5 `<audio>` player with playback controls.
-- **Inline Styling:** Basic CSS styling using the `style` attribute.
-- **Responsive Layout:** Mobile-friendly viewport configuration.
-- **Dark Theme:** Simple black-and-white design with accent colors.
+**My Boys Are Dying** is a beginner-friendly HTML and CSS project inspired by the spoken word poem by **Mufasa Kibet**.
+
+The project presents the poem alongside an embedded HTML5 audio player, creating a simple and immersive reading experience while helping beginners practice semantic HTML, typography, page structure, and basic CSS styling.
 
 ---
 
-## Quick Start
+## Features
 
-### Prerequisites
+- Semantic HTML5 structure
+- Responsive webpage layout
+- HTML5 audio player
+- Embedded images
+- Clean typography
+- Dark minimalist theme
+- Beginner-friendly codebase
 
-All you need to view or edit this project is:
+---
+
+## Technical Stack
+
+- **Markup:** HTML5
+- **Styling:** CSS3
+- **Audio:** HTML5 `<audio>` Element
+- **Deployment:** GitHub Pages
+
+---
+
+# Quick Start & Installation Guide
+
+## Prerequisites
+
+All you need is:
 
 - A modern web browser
-- A text editor (VS Code, Cursor, WebStorm, Sublime Text, etc.)
+- A code editor (VS Code, Cursor, WebStorm, Sublime Text, etc.)
 
 ---
 
-## Running Locally
+## Local Development
 
-Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/aymanissa-dev/my-boys-are-dying.git
+
 cd my-boys-are-dying
 ```
 
-Launch the project:
+### 2. Launch the Project
 
-- Double-click `index.html` to open it in your browser, or
-- Use the **Live Server** extension in VS Code or Cursor for automatic reloading.
+Open `index.html` directly in your browser, or
+
+Use the **Live Server** extension in VS Code or Cursor for automatic hot reloading.
 
 ---
 
@@ -45,10 +64,11 @@ Launch the project:
 
 ```text
 my-boys-are-dying/
-│
-├── index.html              # Main webpage
-├── myboysaredying.mp3      # Spoken word audio
-├── README.md               # Project documentation
+├── index.html             # Main HTML document
+├── styles.css             # Project styles
+├── myboysaredying.mp3     # Spoken word audio
+├── screenshot.png         # Project preview
+└── README.md              # Project documentation
 ```
 
 ---
@@ -57,22 +77,23 @@ my-boys-are-dying/
 
 This project helps beginners practice:
 
-- HTML5 page structure
-- Semantic elements
-- Images
-- Audio embedding
+- Semantic HTML5
+- Page structure
 - Typography
-- Inline CSS
-- Responsive webpage basics
+- Image embedding
+- HTML5 audio
+- Responsive layouts
+- Basic CSS styling
 
 ---
 
 ## Credits
 
-- **Poem:** *My Boys Are Dying*
-- **Writer & Performer:** Mufasa Kibet
+**Poem:** *My Boys Are Dying*
 
-This project was created purely for educational and frontend practice purposes. All rights to the original spoken word performance belong to Mufasa Kibet.
+**Writer & Performer:** Mufasa Kibet
+
+This project was created for educational purposes and frontend development practice. All rights to the original spoken word performance belong to Mufasa Kibet.
 
 ---
 
@@ -80,4 +101,4 @@ This project was created purely for educational and frontend practice purposes. 
 
 Created by **Ayman Issa**.
 
-This project is open-source and intended for learning, practicing HTML and CSS, and improving frontend development skills.
+This project is fully open-source and free to use for learning, teaching, and improving HTML & CSS fundamentals.
