@@ -47,9 +47,9 @@ All you need is:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aymanissa-dev/my-boys-are-dying.git
+git clone https://github.com/aymanissa-dev/My-Boys-Are-Dying.git
 
-cd my-boys-are-dying
+cd My-Boys-Are-Dying
 ```
 
 ### 2. Launch the Project
