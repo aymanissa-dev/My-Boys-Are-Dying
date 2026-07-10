@@ -63,7 +63,7 @@ Use the **Live Server** extension in VS Code or Cursor for automatic hot reloadi
 ## Project Structure
 
 ```text
-my-boys-are-dying/
+My-Boys-Are-Dying/
 ├── index.html             # Main HTML document
 ├── styles.css             # Project styles
 ├── myboysaredying.mp3     # Spoken word audio
